@@ -1,6 +1,6 @@
 spring:
   name: config-dev
 config:
-  info: "version=2"     
+  info: "version=3"     
 
  
